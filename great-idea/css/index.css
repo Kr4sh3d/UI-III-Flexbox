@@ -282,7 +282,7 @@ footer {
     border: 1px solid black;
 }
 
-.product-content .button button:hover {
+.product-content #button button:hover {
     background: black;
 	color: gray;
 	cursor: pointer;
