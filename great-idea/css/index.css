@@ -273,6 +273,20 @@ footer {
  margin-bottom: 20px
 } 
 
+.product-content .button button {
+    padding: 10px 40px;
+    margin-top: 20px;
+    cursor: pointer;
+    background: white;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.product-content .button button:hover {
+    background: black;
+    color: white;
+} 
+
 .products-content .products-info ul {
     margin: 20px;
 }
