@@ -247,4 +247,59 @@ footer {
 .services-content .services-info .services-info-img {
   width: 420px;
   height: 300px;
+} 
+
+/* Products page */
+
+.products-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    line-height: 1.3;
+}
+
+.products-content .products-header-img {
+    margin: 20px 0;
+}
+
+.products-content h1 {
+    font-size: 26px;
+    margin: 10px 0;
+}
+
+.products-content .products-text {
+ border-bottom: 1px solid black;
+ padding-bottom: 40px;
+ margin-bottom: 20px
+} 
+
+.products-content .products-info ul {
+    margin: 20px;
+}
+
+.products-content .products-info ul li{
+    list-style: square;
+    padding: 5px;
+}
+
+.products-content .products-info {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 2px solid black; 
+    margin: 20px 0 35px 0;
+    padding-top: 40px; 
+}
+
+.products-content .products-info .facts {
+  width: 400px;
+  margin: 0 60px 20px 0;
+}
+
+.products-content .products-info .facts p {
+  margin-bottom: 20px;
+}
+
+.products-content .products-info .products-info-img {
+  width: 420px;
+  height: 300px;
 } */
